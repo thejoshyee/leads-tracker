@@ -10,5 +10,5 @@ This project was for Scrimba's Front-End Developer Career Path. It features a Go
 - Custom Chrome Extensions 
 
 ## Preview
-<img src="https://github.com/thejoshyee/leads-tracker/blob/main/leads-tracker-preview.png" width="50%" />
+<img src="https://github.com/thejoshyee/leads-tracker/blob/main/leads-preview.png" width="50%" />
 
